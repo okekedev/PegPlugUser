@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>514464976566-5aeum4b52qlcqo4pivb6u5q2l89eiidr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.514464976566-5aeum4b52qlcqo4pivb6u5q2l89eiidr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCl-rk4c20fLolgmO8B2gtDGPnggCR7APE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>514464976566</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Sundai.Peg-Plug</string>
+	<key>PROJECT_ID</key>
+	<string>peg-plug</string>
+	<key>STORAGE_BUCKET</key>
+	<string>peg-plug.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:514464976566:ios:a777b60358ae4f01332017</string>
+</dict>
+</plist>
