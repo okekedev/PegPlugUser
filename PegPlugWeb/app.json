@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "PegPlugWeb",
+    "slug": "PegPlugWeb",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/peglogored.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/peglogored.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/peglogored.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/peglogored.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow Peg Plug to use your location to find nearby deals."
+        }
+      ]
+    ]
+  }
+}
